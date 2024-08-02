@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+ul li{
+    color: blue;
+    font-size: 30px;
+}.blog{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5%;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+.blog h2{
+    font-size: 30px;
+
+}
+.blog p{
+    font-size: 18px;
+    line-height: 5vh;
+}
